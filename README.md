@@ -1,1 +1,1 @@
-# Intern_Project
+# StudentAI
